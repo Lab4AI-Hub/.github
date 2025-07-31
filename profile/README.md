@@ -1,7 +1,7 @@
 <!-- 1. 顶部横幅：Logo + 名称 -->
 <p align="center">
-  <!-- 建议你设计一个 Logo，如果没有，可以暂时移除这行 -->
-  <img src="[你的Logo图片链接，建议尺寸 150x150]" width="150" alt="CodeGenesis Lab Logo">
+  <!-- 一个 Logo -->
+  <img src="["C:\Users\zetyun\Desktop\lab4ai头像.png"]" width="150" alt="CodeGenesis Lab Logo">
   <h1 align="center">CodeGenesis Lab</h1>
 </p>
 
@@ -20,7 +20,7 @@
 
 ### 🚀 我们的使命 (Our Mission)
 
-在 **CodeGenesis Lab**，我们不仅仅是复现论文。我们通过一个严谨的流程，确保每一行代码都经过了 **[大模型实验室]([你的平台链接])** 平台的真实算力验证。这意味着：
+在 **CodeGenesis Lab**，我们不仅仅是复现论文。我们通过一个严谨的流程，确保每一行代码都经过了 **[大模型实验室]([平台链接])** 平台的真实算力验证。这意味着：
 
 * **不再有 `README` 陷阱**：告别那些无法运行的“开源”代码。
 * **结果可信赖**：我们提供详细的验证报告，确保复现结果与原论文对齐。
