@@ -41,8 +41,8 @@
 | 论文标题 (Paper)                                                               | 领域 (Domain)       | 查看代码 & 运行                                                                                                             |
 | :----------------------------------------------------------------------------- | :------------------ | :-------------------------------------------------------------------------------------------------------------------------- |
 | **Attention Is All You Need** <br> *Ashish Vaswani, et al. (2017)* | `NLP` `Transformer` | [➡️ **Code & Run**](https://github.com/ReproCode-Lab/paper-reproductions/tree/main/papers/vaswani-2017-attention-is-all-you-need) |
-| **Deep Residual Learning for Image Recognition** <br> *Kaiming He, et al. (2015)* | `CV` `CNN`          | [➡️ **Code & Run**](https://github.com/ReproCode-Lab/paper-reproductions/tree/main/papers/he-2015-deep-residual-learning)    |
-| **Denoising Diffusion Probabilistic Models** <br> *Jonathan Ho, et al. (2020)* | `CV` `Diffusion`    | [➡️ **Code & Run**](https://github.com/ReproCode-Lab/paper-reproductions/tree/main/papers/ho-2020-ddpm)                         |
+| **未完待续** <br> *leo* | `CV` `CNN`          | [➡️ **Code & Run**](https://github.com/ReproCode-Lab/paper-reproductions/tree/main/papers/he-2015-deep-residual-learning)    |
+| **未完待续** <br> *leo* | `CV` `Diffusion`    | [➡️ **Code & Run**](https://github.com/ReproCode-Lab/paper-reproductions/tree/main/papers/ho-2020-ddpm)                         |
 | *... (点击 [这里](https://github.com/ReproCode-Lab/paper-reproductions/tree/main/papers) 查看所有项目)* |                     |                                                                                                                             |
 
 ---
