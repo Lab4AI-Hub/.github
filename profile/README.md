@@ -59,9 +59,9 @@
 
 我们是一个开放的社区，欢迎任何形式的贡献，共同构建一个更可靠的AI算法复现生态。
 
-1.  **阅读我们的 [贡献指南 `CONTRIBUTING.md`](https://github.com/ReproCode-Lab/paper-reproductions/blob/main/CONTRIBUTING.md)**，了解详细的协作流程。
-2.  在 [**项目 Issue 列表**](https://github.com/ReproCode-Lab/paper-reproductions/issues) 中寻找 `good first issue` 或 `help wanted` 任务。
-3.  如果你有想要复现的论文，欢迎 [**提交一个提案**](https://github.com/ReproCode-Lab/paper-reproductions/issues/new/choose)！
+1.  **阅读我们的 [贡献指南 `CONTRIBUTING.md`](https://github.com/ReproCode-Lab/ReproHub/blob/main/CONTRIBUTING.md)**，了解详细的协作流程。
+2.  在 [**项目 Issue 列表**](https://github.com/ReproCode-Lab/ReproHub/issues) 中寻找 `good first issue` 或 `help wanted` 任务。
+3.  如果你有想要复现的论文，欢迎 [**提交一个提案**](https://github.com/ReproCode-Lab/ReproHub/issues/new/choose)！
 
 ---
 
