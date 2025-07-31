@@ -1,19 +1,16 @@
-<!-- 这是一个为 ReproCode-Lab 定制的、可以直接使用的 Markdown 模板。 -->
-<!-- 你需要做的就是替换“[你的...”开头的占位符链接。 -->
 
 <!-- 1. 顶部横幅：Logo + 名称 -->
 <p align="center">
-<!-- Logo 图片现在直接引用仓库中的文件，这是最可靠的方式 -->
+<!-- Logo 图片现在直接引用仓库中的文件 -->
 <img src="https://raw.githubusercontent.com/ReproCode-Lab/.github/main/logo.svg" width="150" alt="ReproCode-Lab Logo">
 <h1 align="center">ReproCode-Lab</h1>
 </p>
 
 <!-- 2. 核心标语 + 徽章 -->
-<!-- 注意：如果徽章无法显示，可能是您的网络访问 shields.io 服务受阻，这是正常现象，不影响功能。 -->
 <p align="center">
   <strong>复现顶会论文，我们提供代码，更提供运行的舞台。</strong>
   <br><br>
-  <!-- 修复了徽章链接，并优化了样式 -->
+  <!-- 修复了徽章链接，优化了样式 -->
   <a href="https://github.com/ReproCode-Lab/paper-reproductions"><img src="https://img.shields.io/github/stars/ReproCode-Lab/paper-reproductions?style=flat-square" alt="GitHub Stars"></a>
   <a href="[你的“大模型实验室”平台链接]"><img src="https://img.shields.io/badge/算力平台-大模型实验室-5A67D8?style=flat-square" alt="大模型实验室"></a>
   <a href="https://github.com/ReproCode-Lab/paper-reproductions/blob/main/CONTRIBUTING.md"><img src="https://img.shields.io/badge/欢迎-贡献代码-38A169?style=flat-square" alt="欢迎贡献"></a>
@@ -61,7 +58,7 @@
 
 ### 🤝 如何贡献 (How to Contribute)
 
-我们是一个开放的社区，欢迎任何形式的贡献，共同构建一个更可靠的AI代码生态。
+我们是一个开放的社区，欢迎任何形式的贡献，共同构建一个更可靠的AI算法复现生态。
 
 1.  **阅读我们的 [贡献指南 `CONTRIBUTING.md`](https://github.com/ReproCode-Lab/paper-reproductions/blob/main/CONTRIBUTING.md)**，了解详细的协作流程。
 2.  在 [**项目 Issue 列表**](https://github.com/ReproCode-Lab/paper-reproductions/issues) 中寻找 `good first issue` 或 `help wanted` 任务。
