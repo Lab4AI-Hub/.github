@@ -1,15 +1,22 @@
+<!-- 这是一个为 ReproCode-Lab 定制的、可以直接使用的 Markdown 模板。 -->
+<!-- 你需要做的就是替换“[你的...”开头的占位符链接。 -->
 
+<!-- 1. 顶部横幅：Logo + 名称 -->
 <p align="center">
-<img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTUwIiBoZWlnaHQ9IjE1MCIgdmlld0JveD0iMCAwIDEwMCAxMDAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PGRlZnM+PGxpbmVhckdyYWRpZW50IGlkPSJncmFkMSIgeDE9IjAlIiB5MT0iMCUiIHgyPSIxMDAlIiB5Mj0iMTAwJSI+PHN0b3Agb2Zmc2V0PSIwJSIgc3R5bGU9InN0b3AtY29sb3I6IzVBNjdEODtzdG9wLW9wYWNpdHk6MSIgLz48c3RvcCBvZmZzZXQ9IjEwMCUiIHN0eWxlPSJzdG9wLWNvbG9yOiM4MUU2RDk7c3RvcC1vcGFjaXR5OjEiIC8+PC9saW5lYXJHcmFkaWVudD48L2RlZnM+PHBhdGggZD0iTTMwIDIwIEMgMTAgMzUsIDEwIDY1LCAzMCA4MCBNNzAgMjAgQyA5MCAzNSwgOTAgNjUsIDcwIDgwIiBzdHJva2U9InVybCgjZ3JhZDEpIiBzdHJva2Utd2lkdGg9IjUiIGZpbGw9Im5vbmUiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIvPjxwYXRoIGQ9Ik02MCA1MCBBIDE1IDE1IDAgMSAxIDQ1IDM1IEwgNDUgMzAgTCA1MCAzNSBMIDQwIDM1IiBmaWxsPSJub25lIiBzdHJva2U9IiM1QTY3RDgiIHN0cm9rZS13aWR0aD0iNCIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIi8+PC9zdmc+" width="150" alt="ReproCode-Lab Logo">
+<!-- Logo 图片现在直接引用仓库中的文件，这是最可靠的方式 -->
+<img src="https://raw.githubusercontent.com/ReproCode-Lab/.github/main/logo.svg" width="150" alt="ReproCode-Lab Logo">
 <h1 align="center">ReproCode-Lab</h1>
 </p>
 
+<!-- 2. 核心标语 + 徽章 -->
+<!-- 注意：如果徽章无法显示，可能是您的网络访问 shields.io 服务受阻，这是正常现象，不影响功能。 -->
 <p align="center">
   <strong>复现顶会论文，我们提供代码，更提供运行的舞台。</strong>
   <br><br>
-  <a href="https://github.com/ReproCode-Lab/paper-reproductions"><img src="https://img.shields.io/github/stars/ReproCode-Lab/paper-reproductions?style=social" alt="GitHub Stars"></a>
-  <a href="[你的“大模型实验室”平台链接]"><img src="https://img.shields.io/badge/算力平台-大模型实验室-5A67D8?style=for-the-badge&logo=server" alt="大模型实验室"></a>
-  <a href="https://github.com/ReproCode-Lab/paper-reproductions/blob/main/CONTRIBUTING.md"><img src="https://img.shields.io/badge/欢迎-贡献代码-brightgreen?style=for-the-badge" alt="欢迎贡献"></a>
+  <!-- 修复了徽章链接，并优化了样式 -->
+  <a href="https://github.com/ReproCode-Lab/paper-reproductions"><img src="https://img.shields.io/github/stars/ReproCode-Lab/paper-reproductions?style=flat-square" alt="GitHub Stars"></a>
+  <a href="[你的“大模型实验室”平台链接]"><img src="https://img.shields.io/badge/算力平台-大模型实验室-5A67D8?style=flat-square" alt="大模型实验室"></a>
+  <a href="https://github.com/ReproCode-Lab/paper-reproductions/blob/main/CONTRIBUTING.md"><img src="https://img.shields.io/badge/欢迎-贡献代码-38A169?style=flat-square" alt="欢迎贡献"></a>
 </p>
 
 ---
