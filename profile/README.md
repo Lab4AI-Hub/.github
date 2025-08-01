@@ -1,5 +1,4 @@
 
-<!-- 1. 顶部横幅：Logo + 名称 -->
 <p align="center">
 <!-- Logo 图片现在直接引用仓库中的文件 -->
 <h1 align="center">ReproCode-Lab</h1>
@@ -10,9 +9,9 @@
   <strong>复现顶会论文，我们提供代码，更提供运行的舞台。</strong>
   <br><br>
   <!-- 修复了徽章链接，优化了样式 -->
-  <a href="https://github.com/ReproCode-Lab/paper-reproductions"><img src="https://img.shields.io/github/stars/ReproCode-Lab/paper-reproductions?style=flat-square" alt="GitHub Stars"></a>
+  <a href="https://github.com/ReproCode-Lab/ReproHub"><img src="https://img.shields.io/github/stars/ReproCode-Lab/ReproHub?style=flat-square" alt="GitHub Stars"></a>
   <a href="[你的“大模型实验室”平台链接]"><img src="https://img.shields.io/badge/算力平台-大模型实验室-5A67D8?style=flat-square" alt="大模型实验室"></a>
-  <a href="https://github.com/ReproCode-Lab/paper-reproductions/blob/main/CONTRIBUTING.md"><img src="https://img.shields.io/badge/欢迎-贡献代码-38A169?style=flat-square" alt="欢迎贡献"></a>
+  <a href="https://github.com/ReproCode-Lab/ReproHub/blob/main/CONTRIBUTING.md"><img src="https://img.shields.io/badge/欢迎-贡献代码-38A169?style=flat-square" alt="欢迎贡献"></a>
 </p>
 
 ---
