@@ -39,7 +39,7 @@
 | **Attention Is All You Need** <br> *Ashish Vaswani, et al. (2017)* | `NLP` `Transformer` | [➡️ **Code & Run**](https://github.com/ReproCode-Lab/paper-reproductions/tree/main/papers/vaswani-2017-attention-is-all-you-need) |
 | **未完待续** <br> *leo* | `CV` `CNN`          | [➡️ **Code & Run**](https://github.com/ReproCode-Lab/paper-reproductions/tree/main/papers/he-2015-deep-residual-learning)    |
 | **未完待续** <br> *leo* | `CV` `Diffusion`    | [➡️ **Code & Run**](https://github.com/ReproCode-Lab/paper-reproductions/tree/main/papers/ho-2020-ddpm)                         |
-| *... (点击 [这里](https://github.com/ReproCode-Lab/paper-reproductions/tree/main/papers) 查看所有项目)* |                     |                                                                                                                             |
+| *... (点击 [这里](https://github.com/ReproCode-Lab/ReproHub/tree/main/papers) 查看所有项目)* |                     |                                                                                                                             |
 
 ---
 
