@@ -6,7 +6,7 @@
 
 <!-- 2. 核心标语 + 徽章 -->
 <p align="center">
-  <strong>复现顶会论文，我们提供代码，更提供运行的舞台。</strong>
+  <strong>我们提供热门的算法复现，一键式的云端验证。</strong>
   <br><br>
   <!-- 修复了徽章链接，优化了样式 -->
   <a href="https://github.com/ReproCode-Lab/ReproHub"><img src="https://img.shields.io/github/stars/ReproCode-Lab/ReproHub?style=flat-square" alt="GitHub Stars"></a>
