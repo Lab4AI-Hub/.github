@@ -9,9 +9,9 @@
   <strong>我们提供热门的算法复现，一键式的云端验证。</strong>
   <br><br>
   <!-- 修复了徽章链接，优化了样式 -->
-  <a href="https://github.com/ReproCode-Lab/ReproHub"><img src="https://img.shields.io/github/stars/ReproCode-Lab/ReproHub?style=flat-square" alt="GitHub Stars"></a>
+  <a href="https://github.com/Lab4AI-Hub/ReproHub"><img src="https://img.shields.io/github/stars/Lab4AI-Hub/ReproHub?style=flat-square" alt="GitHub Stars"></a>
   <a href="[你的“大模型实验室”平台链接]"><img src="https://img.shields.io/badge/算力平台-大模型实验室-5A67D8?style=flat-square" alt="大模型实验室"></a>
-  <a href="https://github.com/ReproCode-Lab/ReproHub/blob/main/CONTRIBUTING.md"><img src="https://img.shields.io/badge/欢迎-贡献代码-38A169?style=flat-square" alt="欢迎贡献"></a>
+  <a href="https://github.com/Lab4AI-Hub/ReproHub/blob/main/CONTRIBUTING.md"><img src="https://img.shields.io/badge/欢迎-贡献代码-38A169?style=flat-square" alt="欢迎贡献"></a>
 </p>
 
 ---
@@ -31,7 +31,7 @@
 
 ### ✨ 精选复现项目 (Featured Reproductions)
 
-以下是我们已完成的部分精选项目，所有代码均可在我们的核心代码库 [**ReproHub**](https://github.com/ReproCode-Lab/ReproHub) 中找到。
+以下是我们已完成的部分精选项目，所有代码均可在我们的核心代码库 [**ReproHub**](https://github.com/Lab4AI-Hub/ReproHub) 中找到。
 
 | 论文标题 (Paper)                                                               | 领域 (Domain)       | 查看代码 & 运行                                                                                                             |
 | :----------------------------------------------------------------------------- | :------------------ | :-------------------------------------------------------------------------------------------------------------------------- |
@@ -58,9 +58,9 @@
 
 我们是一个开放的社区，欢迎任何形式的贡献，共同构建一个更可靠的AI算法复现生态。
 
-1.  **阅读我们的 [贡献指南 `CONTRIBUTING.md`](https://github.com/ReproCode-Lab/ReproHub/blob/main/CONTRIBUTING.md)**，了解详细的协作流程。
-2.  在 [**项目 Issue 列表**](https://github.com/ReproCode-Lab/ReproHub/issues) 中寻找 `good first issue` 或 `help wanted` 任务。
-3.  如果你有想要复现的论文，欢迎 [**提交一个提案**](https://github.com/ReproCode-Lab/ReproHub/issues/new/choose)！
+1.  **阅读我们的 [贡献指南 `CONTRIBUTING.md`](https://github.com/Lab4AI-Hub/ReproHub/blob/main/CONTRIBUTING.md)**，了解详细的协作流程。
+2.  在 [**项目 Issue 列表**](https://github.com/Lab4AI-Hub/ReproHub/issues) 中寻找 `good first issue` 或 `help wanted` 任务。
+3.  如果你有想要复现的论文，欢迎 [**提交一个提案**](https://github.com/Lab4AI-Hub/ReproHub/issues/new/choose)！
 
 ---
 
