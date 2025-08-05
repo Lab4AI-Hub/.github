@@ -25,7 +25,7 @@
 我们的核心使命是：
 * 🔎 **精选 (Curate)**: 跟踪学术顶会，为你精选最具影响力的研究成果。
 * 💻 **复现 (Reproduce)**: 提供高质量、结构清晰、注释详尽的代码实现。
-* ✅ **赋能 (Empower)**: 依托 [**大模型实验室**]([你的“大模型实验室”平台链接]) 平台，为每个项目提供一键可运行的环境，让你真正“开箱即用”。
+* ✅ **赋能 (Empower)**: 依托 [**大模型实验室**]([“大模型实验室”平台链接]) 平台，为每个项目提供一键可运行的环境，让你真正“开箱即用”。
 
 ---
 
@@ -38,7 +38,7 @@
 | **Attention Is All You Need** <br> *Ashish Vaswani, et al. (2017)* | `NLP` `Transformer` | [➡️ **Code & Run**](https://github.com/ReproCode-Lab/paper-reproductions/tree/main/papers/vaswani-2017-attention-is-all-you-need) |
 | **未完待续** <br> *leo* | `CV` `CNN`          | [➡️ **Code & Run**](https://github.com/ReproCode-Lab/paper-reproductions/tree/main/papers/he-2015-deep-residual-learning)    |
 | **未完待续** <br> *leo* | `CV` `Diffusion`    | [➡️ **Code & Run**](https://github.com/ReproCode-Lab/paper-reproductions/tree/main/papers/ho-2020-ddpm)                         |
-| *... (点击 [这里](https://github.com/ReproCode-Lab/ReproHub/tree/main/papers) 查看所有项目)* |                     |                                                                                                                             |
+| *... (点击 [这里](https://github.com/Lab4AI-Hub/ReproHub) 查看所有项目)* |                     |                                                                                                                             |
 
 ---
 
