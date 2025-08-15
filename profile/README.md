@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-   <a href="【你的平台主页链接】"><img src="https://img.shields.io/badge/Lab4AI-Platform-blue?style=for-the-badge" alt="Platform"></a>
+   <a href="【你的平台主页链接】"><img src="https://img.shields.io/badge/Lab4AI-platform-purple"></a>
     <a href="https://github.com/Lab4AI-Hub"><img src="https://img.shields.io/github/stars/Lab4AI-Hub?style=social" alt="GitHub Stars"></a>
     <a href="【你的社区链接，如Discord/Slack】"><img src="https://img.shields.io/badge/Join-Community-brightgreen.svg" alt="Join Community"></a>
     <a href="【官方博客/知乎链接】"><img src="https://img.shields.io/badge/Read-Blog-orange.svg" alt="Blog"></a>
