@@ -79,9 +79,14 @@
 
 我们是一个开放的社区，欢迎任何形式的贡献！无论是提交代码、修复Bug、撰写教程，还是分享你的项目，都将帮助社区成长。请查看我们的 [贡献指南](【链接到贡献指南仓库或文件】)。
 
-<p align="center">
-  <a href="【微信公众号二维码链接】">公众号</a> •
-  <a href="【知乎主页链接】">知乎</a> •
-  <a href="【Bilibili主页链接】">Bilibili</a> •
-  <a href="【联系邮箱】">联系我们</a>
+---
+### 联系我们 | Connect with Us
+- 💬 **微信交流群**: 扫描下方二维码，添加小助手微信，回复“AI”即可入群。
+- 📢 **微信公众号**: 大模型实验室Lab4AI (第一时间获取最新内容)
+- 📚 **CSDN**: [@大模型实验室Lab4AI](【https://blog.csdn.net/Lab4AI】)
+- 📺 **Bilibili**: [@大模型实验室Lab4AI](【你的Bilibili主页链接】)
+- 🌐 **官方网站**: [https://www.lab4ai.cn/home](https://www.lab4ai.cn/home)
+
+<p>
+  <img src="【小助手微信二维码图片URL】" width="150">
 </p>
