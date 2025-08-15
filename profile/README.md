@@ -2,11 +2,11 @@
 ---
 <p align="center">
   <a href="【你的Lab4AI平台主页链接】">
-    <img src="【你的Banner图片链接，建议尺寸1280x640px】" alt="Lab4AI Hub Banner">
+    <img src="【https://github.com/Lab4AI-Hub/.github/blob/main/lab4ai%E5%A4%B4%E5%83%8F.png】" alt="Lab4AI Hub Banner">
   </a>
 </p>
 
-<h1 align="center">欢迎来到大模型实验室 (Lab4AI Hub)</h1>
+<h1 align="center">欢迎来到大模型实验室 (Lab4AI)</h1>
 
 <p align="center">
   <strong>AI学习与实践，一键即达。</strong>
