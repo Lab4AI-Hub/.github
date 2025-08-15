@@ -75,8 +75,8 @@
 
 ---
 ### 联系我们 | Connect with Us
-- 💬 **微信交流群**: 扫描下方二维码，添加小助手微信，回复“AI”即可入群。
-- 📢 **微信公众号**: 大模型实验室Lab4AI (第一时间获取最新内容)
+- 💬 **微信交流群**: 扫描下方二维码，添加小助手微信。
+- 📢 **微信公众号**: 大模型实验室Lab4AI 
 - 📚 **CSDN**: [@大模型实验室Lab4AI](https://blog.csdn.net/Lab4AI)
 - 📺 **Bilibili**: [@大模型实验室Lab4AI](【你的Bilibili主页链接】)
 - 🌐 **官方网站**: [https://www.lab4ai.cn/home](https://www.lab4ai.cn/home)
