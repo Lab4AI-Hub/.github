@@ -7,10 +7,10 @@
 </p>
 
 <p align="center">
-   <a href="【平台链接】"><img src="https://img.shields.io/badge/Lab4AI-platform-purple"></a>
+   <a href="https://www.lab4ai.cn/home"><img src="https://img.shields.io/badge/Lab4AI-platform-purple"></a>
     <a href="https://github.com/Lab4AI-Hub"><img src="https://img.shields.io/github/stars/Lab4AI-Hub?style=social" alt="GitHub Stars"></a>
     <a href="【你的社区链接，如Discord/Slack】"><img src="https://img.shields.io/badge/Join-Community-brightgreen.svg" alt="Join Community"></a>
-    <a href="【官方博客链接】"><img src="https://img.shields.io/badge/Read-Blog-orange.svg" alt="Blog"></a>
+    <a href="https://blog.csdn.net/Lab4AI"><img src="https://img.shields.io/badge/Read-Blog-orange.svg" alt="Blog"></a>
 </p>
 
 ---
@@ -77,7 +77,7 @@
 ### 联系我们 | Connect with Us
 - 💬 **微信交流群**: 扫描下方二维码，添加小助手微信，回复“AI”即可入群。
 - 📢 **微信公众号**: 大模型实验室Lab4AI (第一时间获取最新内容)
-- 📚 **CSDN**: [@大模型实验室Lab4AI](【https://blog.csdn.net/Lab4AI】)
+- 📚 **CSDN**: [@大模型实验室Lab4AI](https://blog.csdn.net/Lab4AI)
 - 📺 **Bilibili**: [@大模型实验室Lab4AI](【你的Bilibili主页链接】)
 - 🌐 **官方网站**: [https://www.lab4ai.cn/home](https://www.lab4ai.cn/home)
 
