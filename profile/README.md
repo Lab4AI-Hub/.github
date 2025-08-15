@@ -1,7 +1,7 @@
 
 ---
 <p align="center">
-  <a href="【[Lab4AI平台主页链接](https://www.lab4ai.cn/home)】">
+  <a href="【https://www.lab4ai.cn/home】">
     <img src="【https://github.com/Lab4AI-Hub/.github/blob/main/lab4ai%E5%A4%B4%E5%83%8F.png】" alt="Lab4AI Hub Banner">
   </a>
 </p>
