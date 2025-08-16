@@ -84,3 +84,26 @@
 <p>
   <img src="【小助手微信二维码图片URL】" width="150">
 </p>
+
+---
+
+---
+### ✨ 我们的贡献者 (Our Contributors)
+
+我们衷心感谢以下所有为 Lab4AI 生态系统做出贡献的开发者、研究者和教育者。是你们的热情和努力，让这个社区变得更加美好！
+
+<table align="center">
+  <tbody>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/LEO-0828">
+          <img src="https://github.com/LEO-0828.png" width="100px;" alt="LEO"/>
+          <br />
+          <sub><b>LEO</b></sub>
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+...（如果还有更多贡献者，可以继续添加`<tr>...</tr>`行）...
