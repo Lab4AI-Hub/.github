@@ -100,7 +100,7 @@
         <strong>成为内容贡献者</strong>
       </a>
       <br><br>
-      <small>想复现论文或分享项目？欢迎联系我们。</small>
+      <small>想复现论文或分享项目？请联系我们。</small>
     </td>
   </tr>
 </table>
