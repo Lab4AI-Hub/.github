@@ -31,21 +31,21 @@
 <td width="25%" align="center">
   <a href="https://github.com/Lab4AI-Hub/ProjectHub">
  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Light%20Bulb.webp" alt="Light Bulb" width="65" height="65" />
-  <h4><a href="https://github.com/Lab4AI-Hub/ProjectHub">论文复现</a></h4>
+  <h4><a href="https://github.com/Lab4AI-Hub/ProjectHub">项目复现</a></h4>
   </a>
   <p>复现前沿、有趣、实用的AI项目，从Demo到生产。</p>
 </td>
 <td width="25%" align="center">
   <a href="https://github.com/Lab4AI-Hub/CompetitionHub">
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Trophy.webp" alt="Trophy" width="65" height="65" />
-   <h4><a href="https://github.com/Lab4AI-Hub/CompetitionHub">论文复现</a></h4>
+   <h4><a href="https://github.com/Lab4AI-Hub/CompetitionHub">AI 竞赛</a></h4>
   </a>
   <p>举办实战AI竞赛，提供基线、数据集和计算资源。</p>
 </td>
 <td width="25%" align="center">
   <a href="https://github.com/Lab4AI-Hub/CourseHub">
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Graduation%20Cap.webp" alt="Graduation Cap" width="65" height="65" />
-  <h4><a href="https://github.com/Lab4AI-Hub/CourseHub">论文复现</a></h4>
+  <h4><a href="https://github.com/Lab4AI-Hub/CourseHub">精品课程</a></h4>
   </a>
   <p>体系化的AI课程，结合理论与平台在线实践。</p>
 </td>
