@@ -75,19 +75,18 @@
 
 ---
 ### 联系我们 | Connect with Us
-- 💬 **微信交流群**: 扫描下方二维码，添加小助手微信。
-- 📢 **微信公众号**: 大模型实验室Lab4AI 
+- 💬 **微信联系方式**: 扫描下方二维码，添加助手微信。
+- 📢 **微信公众号**: 大模型实验室Lab4AI，期待您的关注。
 - 📚 **CSDN**: [@大模型实验室Lab4AI](https://blog.csdn.net/Lab4AI)
 - 📺 **Bilibili**: [@大模型实验室Lab4AI](https://space.bilibili.com/3546911298554268?spm_id_from=333.337.0.0)
 - 🌐 **官方网站**: [https://www.lab4ai.cn/home](https://www.lab4ai.cn/home)
 
-<p>
-  <img src="【小助手微信二维码图片URL】" width="150">
-</p>
+<a href="https://cdn.jsdelivr.net/gh/Lab4AI-Hub/assets/main/wechat_qr.png">
+  <img src="https://img.shields.io/badge/微信联系-green?style=for-the-badge&logo=wechat">
+</a>
 
 ---
 
----
 ### ✨ 我们的贡献者 (Our Contributors)
 
 我们衷心感谢以下所有为 Lab4AI 生态系统做出贡献的开发者、研究者和教育者。是你们的热情和努力，让这个社区变得更加美好！
