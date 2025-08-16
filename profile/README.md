@@ -76,7 +76,7 @@
 <table align="center" width="100%" style="border: none;">
   <tr style="border: none;">
     <td width="33.3%" align="center" style="padding: 15px;">
-      <a href="【请替换为Discussions Q&A分类的链接】">
+      <a href="https://github.com/Lab4AI-Hub/.github/discussions/categories/q-a">
         <img src="https://api.iconify.design/ph/question-bold.svg?color=gray" width="40">
         <br>
         <strong>提问与解答</strong>
@@ -85,7 +85,7 @@
       <small>在学习中遇到问题？来这里寻求答案。</small>
     </td>
     <td width="33.3%" align="center" style="padding: 15px;">
-      <a href="【请替换为Discussions想法建议分类的链接】">
+      <a href="https://github.com/Lab4AI-Hub/.github/discussions/categories/ideas">
         <img src="https://api.iconify.design/ph/lightbulb-bold.svg?color=gray" width="40">
         <br>
         <strong>分享想法与建议</strong>
