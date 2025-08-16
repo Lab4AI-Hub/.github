@@ -71,7 +71,39 @@
 
 ### 加入我们 (Join Us)
 
-我们是一个开放的社区，欢迎任何形式的贡献！无论是提交代码、修复Bug、撰写教程，还是分享你的项目，都将帮助社区成长。请查看我们的 [贡献指南](【链接到贡献指南仓库或文件】)。
+我们是一个开放的社区，欢迎通过以下任何方式参与进来，共同成长。
+
+<table align="center" width="100%" style="border: none;">
+  <tr style="border: none;">
+    <td width="33.3%" align="center" style="padding: 15px;">
+      <a href="【请替换为Discussions Q&A分类的链接】">
+        <img src="https://api.iconify.design/ph/question-bold.svg?color=gray" width="40">
+        <br>
+        <strong>提问与解答</strong>
+      </a>
+      <br><br>
+      <small>在学习中遇到问题？来这里寻求答案。</small>
+    </td>
+    <td width="33.3%" align="center" style="padding: 15px;">
+      <a href="【请替换为Discussions想法建议分类的链接】">
+        <img src="https://api.iconify.design/ph/lightbulb-bold.svg?color=gray" width="40">
+        <br>
+        <strong>分享想法与建议</strong>
+      </a>
+      <br><br>
+      <small>对平台或社区有任何反馈？欢迎交流。</small>
+    </td>
+    <td width="33.3%" align="center" style="padding: 15px;">
+      <a href="#-联系我们">
+        <img src="https://api.iconify.design/ph/rocket-launch-bold.svg?color=gray" width="40">
+        <br>
+        <strong>成为内容贡献者</strong>
+      </a>
+      <br><br>
+      <small>想复现论文或分享项目？欢迎联系我们。</small>
+    </td>
+  </tr>
+</table>
 
 ---
 ### 联系我们 | Connect with Us
