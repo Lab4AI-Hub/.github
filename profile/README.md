@@ -81,7 +81,7 @@
 - 📺 **Bilibili**: [@大模型实验室Lab4AI](https://space.bilibili.com/3546911298554268?spm_id_from=333.337.0.0)
 - 🌐 **官方网站**: [https://www.lab4ai.cn/home](https://www.lab4ai.cn/home)
 
-<a href="https://cdn.jsdelivr.net/gh/Lab4AI-Hub/assets/main/wechat_qr.png">
+<a href="https://github.com/Lab4AI-Hub/assets/blob/main/leo.jpg">
   <img src="https://img.shields.io/badge/微信联系-green?style=for-the-badge&logo=wechat">
 </a>
 
