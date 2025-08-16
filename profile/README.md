@@ -95,13 +95,18 @@
 <table align="center">
   <tbody>
     <tr>
-      <td align="center">
-        <a href="https://github.com/LEO-0828">
-          <img src="https://github.com/LEO-0828.png" width="100px;" alt="LEO"/>
-          <br />
-          <sub><b>LEO</b></sub>
-        </a>
-      </td>
+      <a href="https://github.com/Huimei0907">
+  <img src="https://github.com/Huimei0907.png?size=50" width="50px;" alt="Huimei0907"/>
+</a>      
+       <a href="https://github.com/Shanshan122">
+  <img src="https://github.com/Shanshan122.png?size=50" width="50px;" alt="Shanshan122"/>
+</a>      
+      <a href="https://github.com/LEO-0828">
+  <img src="https://github.com/LEO-0828.png?size=50" width="50px;" alt="LEO-0828"/>
+</a>      
+       <a href="https://github.com/Nephamaster">
+  <img src="https://github.com/Nephamaster.png?size=50" width="50px;" alt="Nephamaster"/>
+</a>      
     </tr>
   </tbody>
 </table>
