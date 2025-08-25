@@ -22,9 +22,9 @@
 <table width="100%" align="center">
 <tr valign="top">
 <td width="25%" align="center">
-  <a href="https://github.com/Lab4AI-Hub/ReproHub">
+  <a href="https://github.com/Lab4AI-Hub/PaperHub">
    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Newspaper.webp" alt="Newspaper" width="65" height="65" />
-    <h4><a href="https://github.com/Lab4AI-Hub/ReproHub">论文复现</a></h4>
+    <h4><a href="https://github.com/Lab4AI-Hub/PaperHub">论文复现</a></h4>
   </a>
   <p>精选顶会论文，提供代码与可一键运行的在线环境。</p>
 </td>
