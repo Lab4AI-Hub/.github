@@ -128,10 +128,7 @@
     <tr>
       <a href="https://github.com/Huimei0907">
   <img src="https://github.com/Huimei0907.png?size=50" width="50px;" alt="Huimei0907"/>
-</a>      
-       <a href="https://github.com/Shanshan122">
-  <img src="https://github.com/Shanshan122.png?size=50" width="50px;" alt="Shanshan122"/>
-</a>      
+</a>          
       <a href="https://github.com/LEO-0828">
   <img src="https://github.com/LEO-0828.png?size=50" width="50px;" alt="LEO-0828"/>
 </a>      
