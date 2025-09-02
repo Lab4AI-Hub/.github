@@ -94,7 +94,7 @@
       <small>对平台或社区有任何反馈？欢迎交流。</small>
     </td>
     <td width="33.3%" align="center" style="padding: 15px;">
-      <a href="#-联系我们">
+      <a href="https://github.com/Lab4AI-Hub/PaperHub/blob/main/CONTRIBUTING.md">
         <img src="https://api.iconify.design/ph/rocket-launch-bold.svg?color=gray" width="40">
         <br>
         <strong>成为内容贡献者</strong>
